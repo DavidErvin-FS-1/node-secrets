@@ -1,0 +1,9 @@
+{
+  "name": "hardcoded-secrets",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "script": {
+    "run": "node index.js"
+  }
+}
